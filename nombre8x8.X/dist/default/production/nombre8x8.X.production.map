@@ -1,0 +1,132 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Wed Nov 04 17:37:24 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                MAIN_PROG       code   0x000003    program   0x000288
+.config_2007_BUILD/DEFAULT/PRODUCTION/NOMBRE8       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/NOMBRE8       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000146      
+                            0x002007    0x002008      
+            329 out of 8455 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_00DF   0x0000e2    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_00FA   0x0000fd    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_0115   0x000118    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_0130   0x000133    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_013E   0x000141    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     fune   0x000023    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     funm   0x000095    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     funz   0x00005c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h1   0x0000a6    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h2   0x0000ab    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h3   0x0000b0    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h4   0x0000b5    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h5   0x0000ba    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h6   0x0000bf    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h7   0x0000c4    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h8   0x0000c9    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   inicio   0x000018    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    looph   0x000115    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopj   0x00013b    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopk   0x00013d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopm   0x0000df    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopo   0x000127    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopoh   0x00010c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopom   0x0000d6    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopop   0x0000f1    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopp   0x000130    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   looppp   0x0000fa    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m1   0x000034    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m2   0x000039    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m3   0x00003e    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m4   0x000043    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m5   0x000048    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m6   0x00004d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m7   0x000052    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m8   0x000057    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p1   0x00006d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p2   0x000072    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p3   0x000077    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p4   0x00007c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p5   0x000081    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p6   0x000086    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p7   0x00008b    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p8   0x000090    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguire   0x0000ce    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguirm   0x000104    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguirz   0x0000e9    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   tiempo   0x000139    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  tiempo2   0x00011f    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   inicio   0x000018    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     fune   0x000023    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m1   0x000034    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m2   0x000039    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m3   0x00003e    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m4   0x000043    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m5   0x000048    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m6   0x00004d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m7   0x000052    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       m8   0x000057    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     funz   0x00005c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p1   0x00006d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p2   0x000072    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p3   0x000077    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p4   0x00007c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p5   0x000081    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p6   0x000086    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p7   0x00008b    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       p8   0x000090    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                     funm   0x000095    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h1   0x0000a6    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h2   0x0000ab    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h3   0x0000b0    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h4   0x0000b5    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h5   0x0000ba    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h6   0x0000bf    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h7   0x0000c4    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                       h8   0x0000c9    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguire   0x0000ce    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopom   0x0000d6    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopm   0x0000df    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_00DF   0x0000e2    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguirz   0x0000e9    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopop   0x0000f1    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   looppp   0x0000fa    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_00FA   0x0000fd    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  seguirm   0x000104    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   loopoh   0x00010c    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    looph   0x000115    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_0115   0x000118    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                  tiempo2   0x00011f    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopo   0x000127    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopp   0x000130    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_0130   0x000133    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                   tiempo   0x000139    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopj   0x00013b    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+                    loopk   0x00013d    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+          _MAIN_PROG_013E   0x000141    program     static D:\micromplab\nombre8x8.X\nombre8x8.asm
+
+

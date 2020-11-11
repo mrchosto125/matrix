@@ -1,0 +1,58 @@
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 28 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 39 : Found label after column 1. (inicio)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 55 : Found label after column 1. (fune)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 73 : Found label after column 1. (m1)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 79 : Found label after column 1. (m2)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 85 : Found label after column 1. (m3)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 91 : Found label after column 1. (m4)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 97 : Found label after column 1. (m5)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 103 : Found label after column 1. (m6)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 109 : Found label after column 1. (m7)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 115 : Found label after column 1. (m8)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 142 : Found label after column 1. (p1)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 148 : Found label after column 1. (p2)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 154 : Found label after column 1. (p3)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 160 : Found label after column 1. (p4)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 166 : Found label after column 1. (p5)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 172 : Found label after column 1. (p6)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 178 : Found label after column 1. (p7)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 184 : Found label after column 1. (p8)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 191 : Found label after column 1. (funm)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 210 : Found label after column 1. (h1)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 216 : Found label after column 1. (h2)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 222 : Found label after column 1. (h3)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 228 : Found label after column 1. (h4)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 234 : Found label after column 1. (h5)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 240 : Found label after column 1. (h6)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 246 : Found label after column 1. (h7)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 252 : Found label after column 1. (h8)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 268 : Found label after column 1. (loopom)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 277 : Found label after column 1. (loopm)
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 279 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 282 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 284 : Using default destination of 1 (file).
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 297 : Found label after column 1. (loopop)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 306 : Found label after column 1. (looppp)
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 308 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 311 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 313 : Using default destination of 1 (file).
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 326 : Found label after column 1. (loopoh)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 335 : Found label after column 1. (looph)
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 337 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 340 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 342 : Using default destination of 1 (file).
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 355 : Found label after column 1. (loopo)
+Warning[207] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 364 : Found label after column 1. (loopp)
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 366 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 368 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 370 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 383 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 385 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 387 : Using default destination of 1 (file).
+Warning[205] D:\MICROMPLAB\NOMBRE8X8.X\NOMBRE8X8.ASM 391 : Found directive in column 1. (END)
